@@ -1,1 +1,3 @@
-# motion_gpt
+# MotionGPT
+
+Coming soon...
